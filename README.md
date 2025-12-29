@@ -28,11 +28,14 @@ This device provides:
 
 My board is GA36-MB v1.1-20251025.
 I think the chip is an Allwinner A33.
+
 ArkOS cannot be installed without rebuilding:
 - kernel
 - bootloader
 - device tree
-I couldn´t find any .dtb in the emuelec because of the way they adapted it to the A33.
+
+I couldn't find any .dtb in the emuelec because of the way they adapted it to the A33.
+
 The picture of the disk manager from windows is exactly how it looks when I restore the img backup, from there I deleted some games to make it easier to work with it.
 
 ## Goal
