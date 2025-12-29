@@ -37,11 +37,3 @@ ArkOS cannot be installed without rebuilding:
 I couldn't find any .dtb in the emuelec because of the way they adapted it to the A33.
 
 The picture of the disk manager from windows is exactly how it looks when I restore the img backup, from there I deleted some games to make it easier to work with it.
-
-## Goal
-
-Help users identify fake / clone R36S devices and avoid incompatible OS installs.
-
-
-
-
