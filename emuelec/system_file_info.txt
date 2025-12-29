@@ -1,0 +1,1 @@
+/media/moi/EMUELEC/SYSTEM: Squashfs filesystem, little endian, version 4.0, lzo compressed, 425446842 bytes, 12276 inodes, blocksize: 524288 bytes, created: Thu Nov 20 06:51:29 2025

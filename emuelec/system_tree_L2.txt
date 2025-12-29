@@ -1,0 +1,94 @@
+/mnt/system_img
+├── bin -> /usr/bin
+├── dev
+├── ee_arch
+├── emuelec -> /storage/.config/emuelec
+├── etc
+│   ├── avahi
+│   ├── bindresvport.blacklist
+│   ├── connman
+│   ├── dbus-1
+│   ├── e2scrub.conf
+│   ├── emulationstation
+│   ├── environment -> /run/libreelec/environment
+│   ├── ethertypes
+│   ├── eventlircd.d
+│   ├── fonts
+│   ├── fstab
+│   ├── gai.conf
+│   ├── group
+│   ├── host.conf
+│   ├── hostname -> /proc/sys/kernel/hostname
+│   ├── hosts -> /run/libreelec/hosts
+│   ├── ImageMagick-7
+│   ├── inputrc
+│   ├── iptables
+│   ├── irman.conf
+│   ├── issue
+│   ├── ld.so.preload
+│   ├── libnl
+│   ├── lirc
+│   ├── localtime -> /var/run/localtime
+│   ├── machine-id -> /storage/.cache/systemd-machine-id
+│   ├── mc -> /storage/.config/mc
+│   ├── mke2fs.conf
+│   ├── modprobe.d -> /storage/.config/modprobe.d
+│   ├── modules-load.d -> /storage/.config/modules-load.d
+│   ├── motd -> /etc/issue
+│   ├── mtab -> /proc/self/mounts
+│   ├── nanorc
+│   ├── netconfig
+│   ├── nsswitch.conf
+│   ├── os-release
+│   ├── passwd
+│   ├── pki
+│   ├── profile
+│   ├── profile.d
+│   ├── protocols
+│   ├── pulse
+│   ├── rc_keymaps -> /storage/.config/rc_keymaps
+│   ├── rc_maps.cfg
+│   ├── release
+│   ├── release-notes
+│   ├── request-key.conf
+│   ├── request-key.d -> /storage/.config/request-key.d
+│   ├── resolv.conf -> /run/libreelec/resolv.conf
+│   ├── retroarch-joypad-autoconfig
+│   ├── rpc
+│   ├── samba
+│   ├── services
+│   ├── shadow -> /storage/.cache/shadow
+│   ├── skin.png
+│   ├── slsh.rc
+│   ├── ssl
+│   ├── suspend-modules.conf
+│   ├── swap.conf
+│   ├── sysctl.d -> /storage/.config/sysctl.d
+│   ├── systemd
+│   ├── tmpfiles.d -> /storage/.config/tmpfiles.d
+│   ├── udev
+│   └── xtables.conf
+├── flash
+├── lib -> /usr/lib
+├── media -> /var/media
+├── portmaster -> /storage/roms/ports/portmaster
+├── proc
+├── roms -> /storage/roms
+├── run
+├── sbin -> /usr/sbin
+├── storage
+├── sys
+├── tmp
+├── usr
+│   ├── bin
+│   ├── buildate
+│   ├── cache
+│   ├── cmake
+│   ├── config
+│   ├── lib
+│   ├── roms
+│   ├── sbin
+│   └── share
+└── var
+
+39 directories, 52 files

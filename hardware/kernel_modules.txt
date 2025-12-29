@@ -1,0 +1,7 @@
+cdc_ether.ko
+disp.ko
+gpio-sunxi.ko
+lcd.ko
+mali.ko
+meig_cdc_driver.ko
+udt_joystick.ko

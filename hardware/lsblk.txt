@@ -1,0 +1,15 @@
+NAME   FSTYPE FSVER LABEL   UUID                                 FSAVAIL FSUSE% MOUNTPOINTS
+loop0                                                                  0   100% /mnt/system_img
+sda                                                                             
+├─sda1                                                                          
+├─sda2 vfat   FAT32         A20D-CE44                             505,9M     1% /boot/efi
+└─sda3 ext4   1.0           b32c1cfb-f333-4b78-967d-0ad06b49c244   12,4G    43% /
+sdb                                                                             
+├─sdb1 vfat   FAT32         000F-93C2                               6,9G    47% /media/moi/000F-93C2
+├─sdb2 vfat   FAT16 Volumn                                          113M    12% /media/moi/Volumn
+├─sdb3                                                                          
+├─sdb5                                                                          
+├─sdb6                                                                          
+├─sdb7 vfat   FAT16 EMUELEC 2011-5130                             105,1M    79% /media/moi/EMUELEC
+└─sdb8 ext4   1.0           95f07345-75c4-41da-a1ee-635023f6bcc1  109,6M    82% /media/moi/95f07345-75c4-41da-a1ee-635023f6bcc1
+sr0                                                                             

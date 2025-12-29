@@ -1,0 +1,5 @@
+/media/moi/EMUELEC
+├── low_pwr.bmp
+└── SYSTEM
+
+0 directories, 2 files
