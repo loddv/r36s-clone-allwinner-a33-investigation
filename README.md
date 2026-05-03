@@ -3,7 +3,7 @@ I can provide a backup of the sd img if someone need it.
 # R36S Clone Investigation (Allwinner-based)
 
 This repository documents an investigation of a handheld console sold as "R36S"
-which is NOT based on RK3326, but on an Allwinner SoC running EmuELEC.
+which is NOT based on RK3326, but on an Allwinner A33 SoC running EmuELEC.
 
 ## Key findings
 
